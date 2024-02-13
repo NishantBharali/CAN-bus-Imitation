@@ -1,0 +1,5 @@
+# Number of actions
+2
+# List of actions in [Action]/[Delay between next action]/[Target Value for the action]
+accelerate/50/60
+break/0/0

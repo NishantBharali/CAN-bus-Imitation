@@ -1,0 +1,25 @@
+# Number of actions
+22
+# List of actions in [Action]/[Delay between next action]/[Target Value for the action]
+accelerate/50/60
+break/100/0
+accelerate/50/60
+turn/30/54853
+turn/10/0
+accelerate/700/80
+break/300/60
+break/10/20
+turn/35/15059
+turn/10/0
+accelerate/300/70
+break/150/0
+accelerate/800/70
+break/10/15
+turn/35/48413
+turn/10/0
+accelerate/100/50
+turn/10/30254
+break/50/10
+break/30/2
+turn/10/0
+break/0/0
